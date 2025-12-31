@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "Bash(python3 -m venv:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(voice --help:*)",
+      "Bash(voice passages)",
+      "Bash(voice devices)",
+      "Bash(voice history)",
+      "Bash(voice record --help:*)"
+    ]
+  }
+}
